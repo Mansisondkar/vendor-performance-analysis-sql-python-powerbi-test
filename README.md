@@ -117,7 +117,8 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard]("C:\Users\Suryakant\Downloads\dashboard.png")
+![Vendor Performance Dashboard](<img width="875" height="519" alt="dashboard" src="https://github.com/user-attachments/assets/8111b6ab-4477-4648-84a1-85124a0a9f06" />
+
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
