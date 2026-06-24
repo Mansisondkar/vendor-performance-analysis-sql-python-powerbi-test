@@ -1,4 +1,3 @@
-
 # 🧾 Vendor Performance Analysis – Retail Inventory & Sales
 
 _Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using SQL, Python, and Power BI._
@@ -15,9 +14,7 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
 - <a href="#dashboard">Dashboard</a>
-- <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#author--contact">Author & Contact</a>
 
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
@@ -120,7 +117,7 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](images/dashboard.png)
+![Vendor Performance Dashboard]("C:\Users\Suryakant\Downloads\dashboard.png")
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
